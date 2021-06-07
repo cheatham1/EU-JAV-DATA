@@ -4,9 +4,9 @@ Datasets for EU-JAV
 846 unique tweets
 Full dataset and split into train, dev, test (60:20:20)
 
-#1. promotional (promozionale)
-#2. neutral (neutro)
-#3. discouraging (scoraggiante)
+#0. promotional (promozionale)
+#1. neutral (neutro)
+#2. discouraging (scoraggiante)
 
 REMOVED ambiguous tweets (ambiguo) 
 
